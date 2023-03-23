@@ -1,4 +1,21 @@
-# Hi there i'm CJ 👋
+<h1 align="center">Hi 👋, I'm CJCODES</h1>
+<h3 align="center">A passionate Developer</h3>
+
+<img align ="right" alt ="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 📫 How to reach me **johncovenantamos@gmail.com**
+<h3 align="left">CONNECT WITH ME:</h3>
+<p align="left">
+<a href="https://twitter.com/cjcodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjcodes_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-covenant-amos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-covenant-amos" height="30" width="40" /></a>
+<a href="https://instagram.com/cjcodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cjcodes_" height="30" width="40" /></a>
+</p>
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjcodesgit&theme=radical" alt="cjcodesgit" /></p>
+
 
 <img align = "left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=CJCODESgit&show_icons=true&theme=radical" />
 <img align = "left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJCODESgit&layout=compact&theme=radical" />
@@ -20,3 +37,6 @@
 <img align = "left" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img align = "left" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img align = "left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<div>
+
+</div>
